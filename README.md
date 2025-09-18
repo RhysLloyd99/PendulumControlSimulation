@@ -1,5 +1,5 @@
 # PendulumControlSimulation
-This is a real time simulation of an inverted pendulum on a cart featuring a tunable PID controller for pendulum angle and cart velocity.
+This is a real time pendulum on cart simulation featuring PID control for pendulum angle and cart velocity, real time graph plotting and interactive GUI.
 
 ## Features
 - Real time pendulum and cart animation
